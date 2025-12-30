@@ -9,7 +9,7 @@
     "lint": "eslint"
   }, 
   "dependencies": {
-    "next": "v16.0.0-canary.19",
+    "next": "v16.0.0-canary.17",
     "react": "19.2.3",
     "react-dom": "19.2.3"
   },
